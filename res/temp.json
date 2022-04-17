@@ -1,15 +1,36 @@
 {
-    "CNET News.com": [],
-    "Christian Science Monitor | Top Stories": [],
-    "Dictionary.com Word of the Day": [],
-    "InfoWorld: Top News": [],
-    "NYT > Business": [],
-    "NYT > Technology": [],
-    "Scobleizer: Microsoft Geek Blogger": [],
-    "Scripting News": [],
-    "The Motley Fool": [],
-    "Wired News": [],
-    "Workbench": [],
-    "Yahoo! News: Technology": [],
-    "washingtonpost.com - Politics": []
+    "United States": [
+        {
+            "created": "Tue, 15 Mar 2005 16:35:45 GMT",
+            "text": "Far West"
+        },
+        {
+            "created": "Tue, 15 Mar 2005 16:35:45 GMT",
+            "text": "Great Plains"
+        },
+        {
+            "created": "Tue, 15 Mar 2005 16:35:45 GMT",
+            "text": "Mid-Atlantic"
+        },
+        {
+            "created": "Tue, 15 Mar 2005 16:35:45 GMT",
+            "text": "Midwest"
+        },
+        {
+            "created": "Tue, 15 Mar 2005 16:35:45 GMT",
+            "text": "Mountains"
+        },
+        {
+            "created": "Tue, 15 Mar 2005 16:35:45 GMT",
+            "text": "New England"
+        },
+        {
+            "created": "Tue, 15 Mar 2005 16:35:45 GMT",
+            "text": "South"
+        },
+        {
+            "created": "Tue, 15 Mar 2005 16:35:45 GMT",
+            "text": "Southwest"
+        }
+    ]
 }
